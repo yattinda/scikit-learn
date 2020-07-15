@@ -1,0 +1,10 @@
+コマンドラインでjupyter-notebookで実行
+使うときは  %matplotlib inline  必須
+
+コピペ用(はじめにimport)
+
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import mglearn
+from Ipython.display import display
